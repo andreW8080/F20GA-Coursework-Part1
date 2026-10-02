@@ -21,8 +21,8 @@ The reference will be used to guide the development of the model, particularly i
 I have selected two lantern images to give me some visual ideas for the lantern.
 
 
-**Source:** [Original Lantern Reference](https://www.vecteezy.com/vector-art/68810105-cartoon-groovy-glow-pirate-lantern-corsair-object)
+**Source 1:** [Original Lantern Reference](https://www.vecteezy.com/vector-art/68810105-cartoon-groovy-glow-pirate-lantern-corsair-object)
 
-**Source:** [Original Lantern Reference](https://limehouselighting.co.uk/product/parisienne-hanging-lantern-small-512/?srsltid=AU7gw4VYHgqSQEwuMkhaIRCv-0eWDRF5cZnqYt0isa7QR9tuLvhcTAe5)
+**Source 2:** [Original Lantern Reference](https://limehouselighting.co.uk/product/parisienne-hanging-lantern-small-512/?srsltid=AU7gw4VYHgqSQEwuMkhaIRCv-0eWDRF5cZnqYt0isa7QR9tuLvhcTAe5)
 
 
