@@ -25,7 +25,7 @@ I have selected two lantern images to give me some visual ideas for the lantern.
 
 **Source 2:** [Original Lantern Reference](https://limehouselighting.co.uk/product/parisienne-hanging-lantern-small-512/?srsltid=AU7gw4VYHgqSQEwuMkhaIRCv-0eWDRF5cZnqYt0isa7QR9tuLvhcTAe5)
 
-3. Development Progress
+## 3. Development Progress
 
 Version 1 – Initial Lantern Model
 
