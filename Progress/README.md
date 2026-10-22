@@ -1,16 +1,17 @@
 ## Part 1: Offline Rendering
 
 **Student Name:** Andrew Richard Camilleri  
-**Project Title:** Lantern  
+**Project Title:** Lantern – Nighttime Scene
 **Modelling Software:** Blender  
 
 ---
 
 ### Project Overview
+For Part 1 of the coursework, I have chosen to create a 3D lantern model using Blender and place it within a nighttime environment.
 
-For Part 1 of the coursework, I have chosen to create a 3D model of a lantern using Blender.
+The aim is to create a scene where the lantern acts as the main source of light, providing a warm glow against a darker surrounding environment.
 
-The model will be developed incrementally, documenting the modelling process, materials, textures, lighting and final rendered scene.
+The final render will focus on showcasing the lantern while using lighting and shadows with the surrounding environment to create a clear atmosphere.
 
 ## 2. Reference and Design
 
