@@ -46,5 +46,20 @@ The main improvements for this version included:
 
 Overall these changes helped make the lantern look more detailed and realistic while keeping the same basic design as Version 1.
 
+Version 3 – Materials and Lighting
+
+Following the improvements made in Version 2, I focused on adding materials and lighting to make the lantern look more realistic.
+
+The main improvements for this version included:
+
+- Added a dark metallic material to the lantern's frame, pillars and roof to give it a more realistic appearance.
+- Added transparent glass materials to the lantern panels so the inside of the lantern could be seen.
+- Applied a material to the lightbulb to give it a glowing appearance.
+- Added a warm point light inside the lantern to simulate the light produced by the bulb.
+- Adjusted the lighting to improve the visibility of the lantern's details and materials.
+
+Overall these changes helped improve the appearance of the lantern by introducing different materials and lighting effects. This also prepares the model for the next stage which is where I will be focusing on creating the surrounding scene and improving the final render.
+
+
 
 
