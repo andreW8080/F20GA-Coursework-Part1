@@ -2,7 +2,6 @@
 
 **Student Name:** Andrew Richard Camilleri  
 **Project Title:** Lantern – Nighttime Scene
-**Modelling Software:** Blender  
 
 ---
 
