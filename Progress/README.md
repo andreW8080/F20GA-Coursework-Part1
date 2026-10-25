@@ -60,6 +60,19 @@ The main improvements for this version included:
 
 Overall these changes helped improve the appearance of the lantern by introducing different materials and lighting effects. This also prepares the model for the next stage which is where I will be focusing on creating the surrounding scene and improving the final render.
 
+Version 4 – Nighttime Environment and Scene Composition
 
+Following the materials and lighting improvements made in Version 3, I focused on creating the surrounding environment for the lantern.
+
+The main improvements for this version included:
+
+- Added a stone platform underneath the lantern to give it a surface to sit on.
+- Changed the background to a dark blue colour to create a nighttime atmosphere.
+- Added an external area light with a cool blue colour to contrast with the warm lighting inside the lantern.
+- Introduced additional shadows and lighting effects to improve the overall appearance of the scene.
+
+Experimented with the scene composition to make the lantern the main focus of the render.
+
+Overall these changes helped establish a nighttime setting for the lantern and made the render feel more like a complete scene. The next version will focus on adding more detail to the surrounding environment.
 
 
