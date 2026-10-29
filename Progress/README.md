@@ -1,7 +1,7 @@
 ## Part 1: Offline Rendering
 
-**Student Name:** Andrew Richard Camilleri  
-**Project Title:** Lantern – Nighttime Scene
+**Student Name:** Andrew Camilleri  
+**Project Title:** Lantern – Night time Scene
 
 ---
 
@@ -74,5 +74,20 @@ The main improvements for this version included:
 Experimented with the scene composition to make the lantern the main focus of the render.
 
 Overall these changes helped establish a nighttime setting for the lantern and made the render feel more like a complete scene. The next version will focus on adding more detail to the surrounding environment.
+
+Version 5 – Improved Environment and Final Scene Development
+
+Following the initial night time environment created in Version 4, I focused on adding more detail to the surroundings and improving the overall composition of the scene.
+
+The main improvements for this version included:
+
+- Added individual paving stones to create a more detailed ground surface.
+- Added a stone wall behind the lantern to give the scene more depth.
+- Added a wooden crate as an additional object within the environment.
+- Adjusted the size and positioning of the surrounding objects to make sure the lantern remained the main focus.
+
+Improved the lighting and render settings to produce a clearer final image.
+
+Overall these changes helped make the nighttime environment more detailed and gave the lantern a more complete setting. The additional objects, materials and lighting also helped improve the overall appearance and atmosphere of the scene.
 
 
